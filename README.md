@@ -1,4 +1,4 @@
-# hello-worlf
+# hello-world
 ## Mais qu'est ce que je fais sur Git Hub ?
 1. Je pense que l'usage des Jupyler peut être pertinent dans un cadre éducatif;
 2. Je veux apprendre à utiliser Python pour pouvoir comprendre la data science;
